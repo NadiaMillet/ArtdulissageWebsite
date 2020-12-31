@@ -1,0 +1,98 @@
+/*commun*/
+body
+{
+    font-family:'Abhaya Libre', serif;
+}
+i
+{
+    font-size: 40px;
+}
+/*header*/
+.navbar-brand{
+    font-size: x-large;
+}
+.navbar-nav a {
+    font-size: large;
+}
+
+/*main*/
+.slideacc {
+    background-color: #EBEBEB;
+}
+.homeslide{
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+/*section about*/
+a{
+    color: black;
+}
+
+/*scetion catalogue*/
+/*lissage bresilien*/
+.coco
+{
+    background-color: #EBE8E7;
+
+}
+/*lissage coco*/
+
+
+/*lissage tanin*/
+.bio
+{
+    background-color: #A49893;
+}
+
+/*lissage bio*/
+
+/*tarifs*/
+#tarifs
+{
+background-color:#D4CBC7;
+}
+
+.card
+{
+    border-radius: 13px;
+    font-size: 20px;
+    line-height: 3;
+}
+.card img
+{
+    border-radius: 20px;
+}
+.card a
+{
+    font-size: 20px;
+}
+/*footer*/
+footer{
+    background-color: #bdb7ba;
+}
+footer i {
+    font-size: 20px;
+}
+footer .nadia{
+    color:rgb(73, 86, 199) ;
+}
+
+/*SMALL (col-sm-) à partir de 576px et supérieur*/
+@media screen and (min-width:576px){
+
+}
+
+/*MEDIUM (col-md-) à partir de 768px et supérieur*/
+@media screen and (min-width:768px){
+
+}
+
+/*LARGE (col-lg-) à partir de 992px et supérieur*/
+@media screen and (min-width:992px){
+  p{
+      font-size: large;
+  }
+
+/*EXTRA LARGE (col-xl-) à partir de 1200px et supérieur*/
+@media screen and (min-width:1200px){
